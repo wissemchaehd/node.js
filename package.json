@@ -1,7 +1,6 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -12,5 +11,14 @@
     "start": "node app.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wissemchaehd/node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wissemchaehd/node.js/issues"
+  },
+  "homepage": "https://github.com/wissemchaehd/node.js#readme",
+  "description": ""
 }
